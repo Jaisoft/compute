@@ -41,6 +41,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+*.pem
 
 
 ### STS ###
